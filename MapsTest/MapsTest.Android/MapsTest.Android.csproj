@@ -184,7 +184,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MapsTest\MapsTest.csproj">
-      <Project>{f1c2a35c-f15d-4fce-b9ff-2f1090a4b31a}</Project>
+      <Project>{766D693C-444E-431E-840B-6D3C1D5DD28F}</Project>
       <Name>MapsTest</Name>
     </ProjectReference>
   </ItemGroup>
